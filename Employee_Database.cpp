@@ -1,3 +1,7 @@
+//Small Employee database using CPP
+//Author - Kishan
+//Date - 13-Dec-2017
+
 #include <iostream>
 #include <process.h>
 
