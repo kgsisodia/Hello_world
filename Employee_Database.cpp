@@ -1,3 +1,6 @@
+//Small Employee database using CPP
+//Author - Kishan
+
 #include <iostream>
 #include <process.h>
 
